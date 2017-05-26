@@ -1,2 +1,2 @@
 # wuerfeln
-Erster Entwurf für einen Kniffelig-Clone
+Erster Entwurf für einen Kniffel-Clone
